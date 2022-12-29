@@ -1,0 +1,5 @@
+<launch>
+  
+  <node pkg="hesai" type="Velodyne_Point_parshing_1" name="Velodyne_Point_parshing_1_node" output = "screen"/> 
+  
+</launch>

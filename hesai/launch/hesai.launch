@@ -1,0 +1,7 @@
+<launch>
+
+  <node pkg="hesai"  type="TF_publisher" name="TF_publisher_node"    output="screen"/>
+
+  <node pkg="hesai" type="Point_parshing_1" name="Point_parshing_1_node" output = "screen"/> 
+  
+</launch>
